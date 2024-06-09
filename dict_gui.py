@@ -62,7 +62,7 @@ tabAuth = ttk.Frame(tabs)
 tabs.add(tabAuth, text='Про словник')
 tabs.grid()
 
-labelAuth = Button(tabAuth, text = '''Словник польських діалектів є навчально-пізнавальним інструментом, метою якого є ознайомлення користувачів з регіональним різноманіттям польської мови.''',
+labelAuth = Button(tabAuth, text = '''Словник польських діалектів.''',
                    font = 'Arial 16 bold')
 labelAuth.place(relx=0.5, rely=0.5, anchor=CENTER)
 labelAuth.place()
