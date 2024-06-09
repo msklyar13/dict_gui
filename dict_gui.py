@@ -51,7 +51,7 @@ conn.commit()
 
 # Створити новий графічний (віконний) проєкт мовою Python
 window = Tk()
-window.title('lab3_Mariia_Kuldoshyna_group2')
+window.title('dict_gui')
 
 # У вікні програми зробити 2 вкладки (Tab): «Словник» і «Про автора»
 tabs = ttk.Notebook(window)
